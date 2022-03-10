@@ -1,0 +1,16 @@
+* {
+    font-family: 'LEMON MILK Pro', sans-serif;
+    color: {{fontColor}};
+    font-size: 14px;
+    overflow: hidden;
+}
+
+.elements {
+ 	position: fixed;
+ 	left: 50%;
+ 	bottom: 0px;
+ 	transform: translate(-50%, -50%);
+ 	margin: auto;
+ 	width: 100%;
+	text-align: center;
+}
