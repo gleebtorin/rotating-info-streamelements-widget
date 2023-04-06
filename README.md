@@ -22,3 +22,5 @@ You'll need to be logged into StreamElements. You can add this to an existing ov
 5. Click Done
 
 Once this is complete, you'll be able to change the settings for the widget in the settings tab.
+
+Optionally, if you want to use a font that is not in the Google Fonts library, replace `{{fontFamily}}` in `widget.css` with the name of the font you wish to use. Please ensure that you have it installed locally or have another solution to make it available.

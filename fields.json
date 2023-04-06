@@ -1,7 +1,12 @@
 {
   "fontColor": {
     "type": "colorpicker",
-    "label": "Font color",
+    "label": "Font Color",
     "value": "rgb(255, 255, 255)"
+  },
+  "fontFamily": {
+    "type": "googleFont",
+    "label": "Font Family",
+    "value": "Montserrat"
   }
 }

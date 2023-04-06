@@ -1,5 +1,5 @@
 * {
-    font-family: 'LEMON MILK Pro', sans-serif;
+    font-family: '{{fontFamily}}', sans-serif;
     color: {{fontColor}};
     font-size: 14px;
     overflow: hidden;
